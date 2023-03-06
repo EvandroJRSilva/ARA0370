@@ -11,7 +11,7 @@ Repositório para aulas e demais materiais da disciplina ARA0370 da Faculdade Es
    2. Serviço de Correio Eletrônico
    3. DNS, DHCP e SNMP
    4. Monitoramento de Protocolos
-2. Protocolos de Transporte da Internet (crédito digital)
+2. Protocolos de Transporte da Internet (atividade prática supervisionada)
    1. Camada de Transporte
    2. Transferência de dados fim a fim
    3. Protocolos de Transporte da Internet
@@ -89,7 +89,7 @@ Turmas
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 |    |    |    | 01 | 02 |
-| 05 | ![06Jun](https://placehold.co/25/red/white?text=06) | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=21) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) |
+| 05 | ![06Jun](https://placehold.co/25/red/white?text=06) | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=08) | 09 |
 | 12 | ![13Jun](https://placehold.co/25/limegreen/white?text=13) | 14 | 15 | 16 |
 | 19 | ![20Jun](https://placehold.co/25/red/white?text=20) | 21 | 22 | 23 |
 | 26 | 27 | 28 | 29 | 30 |
@@ -107,7 +107,7 @@ Turmas
 
 ## **Avaliação**
 
-* Média = (AV1 + AV2 + AVD)/3
+* Média = (AV1 + AV2)/2
   * Valor mínimo: 6,0.
   * AV1
     * Prova + Trabalho.
@@ -117,11 +117,6 @@ Turmas
     * Prova + Trabalho.
     * Valor mínimo: 4,0.
     * É possível o acréscimo de 1,0 ponto através do AvA 3 e AvA 4 (0,5 de cada).
-  * AVD
-    * Prova.
-    * Valor mínimo: 4,0.
-    * Corresponde ao conteúdo do Crédito Digital.
-    * Ocorre no mesmo período da AV2.
   * AV3
     * Prova substitutiva.
     * O aluno deverá fazer essa prova se
@@ -129,11 +124,6 @@ Turmas
       * AV1 ou AV2 estiver com valor abaixo de 4,0, ou
       * Média abaixo de 6,0.
     * O valor dessa prova substituirá o menor valor entre AV1 e AV2.
-  * AVDS
-    * Prova substitutiva.
-    * O aluno deverá fazer essa prova se,
-      * Tiver faltado AVD, ou
-      * AVD com valor abaixo de 4,0.
 * Frequência mínima: 75%
   * Lembre que falta também reprova!
 
