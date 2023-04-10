@@ -66,7 +66,7 @@ Turmas
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 | ![03Abr](https://placehold.co/25/orange/white?text=03) | ![04Abr](https://placehold.co/25/limegreen/white?text=04) | 05 | ![06Abr](https://placehold.co/25/cornflowerblue/white?text=06) | ![07Abr](https://placehold.co/25/cornflowerblue/white?text=07) |
-| 10 | ![11Abr](https://placehold.co/25/limegreen/white?text=11) | 12 | !13 | 14 |
+| 10 | ![11Abr](https://placehold.co/25/limegreen/white?text=11) | 12 | 13 | 14 |
 | 17 | ![18Abr](https://placehold.co/25/limegreen/white?text=18) | 19 | 20 | ![21Abr](https://placehold.co/25/cornflowerblue/white?text=21) |
 | 24 | ![25Abr](https://placehold.co/25/red/white?text=25) | 26 | 27 | 28 |
 
@@ -79,7 +79,7 @@ Turmas
 | ![01Mai](https://placehold.co/25/cornflowerblue/white?text=01) | ![02Mai](https://placehold.co/25/limegreen/white?text=02) ![02Mai](https://placehold.co/25/orange/white?text=02) | 03 | 04 | 05 |
 | 08 | ![09Mai](https://placehold.co/25/limegreen/white?text=09) | 10 | 11 | 12 | 
 | ![15Mai](https://placehold.co/25/orange/white?text=15) | ![16Mai](https://placehold.co/25/limegreen/white?text=16) | 17 | 18 | 19 |
-| 22 | ![23Mai](https://placehold.co/25/limegreen/white?text=23) | 24 | !25 | 26 |
+| 22 | ![23Mai](https://placehold.co/25/limegreen/white?text=23) | 24 | 25 | 26 |
 | 29 | ![30Mai](https://placehold.co/25/limegreen/white?text=30) | 31 |    |    |
 
 <br />
